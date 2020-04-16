@@ -4,3 +4,7 @@ class A {
     this.a = a;
   }
 }
+
+void mian() {
+  
+}
