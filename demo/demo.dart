@@ -7,4 +7,5 @@ class A {
 
 void mian() {
  //测试的代码
+ //master
 }
