@@ -14,6 +14,7 @@ void mian() {
  //master2
 
  //master1
+ //master2
 }
 
 //4.17
